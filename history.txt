@@ -1,0 +1,360 @@
+    1  vi
+    2  top
+    3  TOP
+    4  ps -auxf
+    5  ps auxf
+    6  ps -f
+    7  mkdir Linux_Test
+    8  cd Linux_Test
+    9  cd ..
+   10  rm -rf Linux_Test
+   11  cd Desktop/
+   12  mkdir Linux_Test
+   13  cd /Linux_test
+   14  cd Linux_test
+   15  scp ec2-user@linux.itcareerhub.de:/opt/121225-ptm/oleg_v/my_file.txt .
+   16  scp ec2-user@linux.itcareerhub.de:/opt/121225-ptm/oleg_v/history.txt .
+   17  cd
+   18  pwd
+   19  ls -la
+   20  ssh-keygen
+   21  cat .ssh/id_ed25519
+   22  cat .ssh/id_ed25519.pub
+   23  ssh ec2-user@linux.itcareerhub.de
+   24  htop
+   25  top -h
+   26  -h top
+   27  htop
+   28  htop
+   29  ssh ec2-user@linux.itcareerhub.de
+   30  ssh ec2-user@linux.itcareerhub.de
+   31  cd .ssh/
+   32  cd /desktop.ssh/
+   33  cd /desktop/.ssh/
+   34  cd desktop/.ssh/
+   35  cd
+   36  cd Linux_Test
+   37  cd desktor/Linux_Test
+   38  cd desktop/Linux_Test
+   39  cd
+   40   cat  .ssh/id_ed25519.pub
+   41  ssh ec2-user@linux.itcareerhub.de
+   42  cd ..
+   43  cd
+   44  ls
+   45  cd /dektop/linux_test
+   46  cd /Dektop/Linux_Test
+   47  cd Dektop/Linux_Test
+   48  cd Dekstop/Linux_Test
+   49  cd /Dekstop/Linux_Test
+   50  cd Desktop/Linux_Test
+   51  scp ec2-user@linux.itcareerhub.de:/opt/121225-ptm/oleg_v/Test_Summary.txt .
+   52  pwd
+   53  ssh ec2-user@linux.itcareerhub.de
+   54  ssh ec2-user@linux.itcareerhub.de
+   55  ssh ec2-user@linux.itcareerhub.de
+   56  ssh ec2-user@linux.itcareerhub.de
+   57  ssh ec2-user@linux.itcareerhub.de
+   58  ps -ef
+   59  env
+   60  ssh ec2-user@linux.itcareerhub.de
+   61  ssh ec2-user@linux.itcareerhub.de
+   62  cd /desktop
+   63  cd /desktop/Linux_test
+   64  pwd
+   65  cd /c/User/ICH/desktop/Linux_test
+   66  cd ..
+   67  cd /Desktop
+   68  ls
+   69  cd Desktop/
+   70  mkdir test_02.02.26
+   71  cd test_02.02.26/
+   72  git init
+   73  ls -la
+   74  ls -la .git
+   75  echo "# test_02.02.26" >> README.md
+   76  ls
+   77  git add README.md
+   78  cat README.md
+   79  git status
+   80  touch test_file.txt
+   81  git status
+   82  git add .
+   83  git status
+   84  git commit -m "created 2 files"
+   85  git config --global user.email "vasilyev.o@gmail.com"
+   86  git config --global user.name 
+   87  git config --global user.name
+   88  git config --global user.email
+   89  git commit -m "created 2 files"
+   90  git branch
+   91  git remote add origin git@github.com:vasilyevO/test_02.02.26.git
+   92  git remote -v
+   93  git push -u origin main
+   94  git push -u origin main
+   95  git branch -M main
+   96  git remote -v
+   97  git push -u origin main
+   98  pwd
+   99  ls -la
+  100  cd ..
+  101  history >> export_file history_commit.txt 
+  102  history > export_file history_commit.txt 
+  103  history > history_commit.txt | export_file history_commit.txt 
+  104  history |touch history_commit.txt | export_file history_commit.txt 
+  105  history > history_commit.txt | exportfile history_commit.txt 
+  106  echo "oleg test" >> test 2.txt 
+  107  git status
+  108  cd Desktop/
+  109  cd Desktop/Linux_Test/
+  110  cd Desktop/Linux_Test/
+  111  cd Desktop/Linux_Test/test_02.02.26
+  112  cd Desktop/test_02.02.26
+  113  cd Desktop/test_02.02.26/
+  114  cd /Desktop/test_02.02.26/
+  115  cd test_02.02.26/
+  116  echo "oleg test" >> test 2.txt 
+  117  git status
+  118  git add test
+  119  git add test 2.txt
+  120  ls
+  121  git status
+  122  git push -u origin main
+  123  git remote add origin git@github.com:vasilyevO/test_02.02.26.git
+  124  git add test
+  125  git status
+  126  ls
+  127  git push -u origin main
+  128  git commit -m “test”
+  129  git status
+  130  git remote add origin git@github.com:vasilyevO/test_02.02.26.git
+  131  git remote -v
+  132  git push -u origin main
+  133  git status
+  134  git status
+  135  git add test2/
+  136  git add test_2/
+  137  git commit -m "# test_2"
+  138  git push
+  139  rm -rf .git
+  140  history
+  141  history > history_repository.txt | export history_repository.txt
+  142  history > history_repository.txt | export "history_repository.txt"
+  143  history > history_repository.txt | exportfile "history_repository.txt"
+  144  history > history_repository.txt | export_file "history_repository.txt"
+  145  history > history_repository.txt
+  146  ls 
+  147  ssh ec2-user@linux.itcareerhub.de
+  148  pwd
+  149  mkdir -p /c/Users/ICH/Desktop/git_intro
+  150  cd /c/Users/ICH/Desktop/git_intro
+  151  git init
+  152  git branch -M main
+  153  git init
+  154  git add photo.jpg
+  155  git commit -m "Added photo"
+  156  git remote add origin git@github.com:vasilyevO/git_intro.git
+  157  git push -u origin main
+  158  ssh ec2-user@linux.itcareerhub.de
+  159  pwd
+  160  mkdir /c/Users/ICH/Linux_12.02.26
+  161  cd /c/Users/ICH/Linux_12.02.26
+  162  echo "# git_12.02.26" >> README.md
+  163  git init
+  164  gitstatus
+  165  git status
+  166  git branch -M main
+  167  export EDITOR=nano
+  168  git commit -m "Test commit"
+  169  git branc
+  170  git branch
+  171  git branch
+  172  git remote add origin git@github.com:vasilyevO/git_12.02.26.git
+  173  git remote -v
+  174  git push -u origin main
+  175  git push -u origin main
+  176  git add README.md
+  177  git commit -m "Test commit"
+  178  git push -u origin main
+  179  git checkout -b test
+  180  git branch
+  181  vi .gitignore
+  182  cat .gitignore
+  183  git status
+  184  git add .gitignore
+  185  git status
+  186  git commit -m "File gitignore added"
+  187  touch file.log 2.bmp 3.BMP 
+  188  git status
+  189  ls -la
+  190  git config core.ignorecase
+  191  git config core.ignorecase false
+  192  git config core.ignorecase
+  193  git status
+  194  git config --global core.ignorecase false
+  195  git config core.ignorecase
+  196  git add .
+  197  git status
+  198  git rm --cached 3.BMP
+  199  git status
+  200  git push -u origin test
+  201  git pull origin main
+  202  ls -la
+  203  git switch main
+  204  ls -la
+  205  git pull origin main
+  206  ls -la
+  207  git config log --online --graph
+  208  git log --online --graph
+  209  git log --oneline --graph
+  210  git checkout 0c26c40
+  211  git switch 0c26c40
+  212  git branch
+  213  git log
+  214  git log --oneline
+  215  git checkout -b bug_fix
+  216  git log
+  217  cd ..
+  218  git clone git@github.com:vasilyevO/git_team_work.git
+  219  cd /git_team_work
+  220  pwd
+  221  cd /c/Users/ICH
+  222  /git_team_work
+  223  cd git_team_work
+  224  ls -la
+  225  cat 010825-ptm.sh
+  226  git log --oneline --graph
+  227  git log -head -10
+  228  git log head -10
+  229  git log | head -10 
+  230  history > history_branches.txt
+  231  pwd
+  232  pwd
+  233  cd desktop
+  234  cd desktop/Linux_Test
+  235  cd desktop/Linux_Test/
+  236  cd Linux_Test
+  237  mkdir git-branch
+  238  cdcdcdcdcddsdsdcdcdcdcdc
+  239  cd desktop/Linux_Test/dsasd
+  240  git-branch
+  241  git-branch
+  242  cd gitbranch
+  243  ls
+  244  cd git-branch
+  245  git init
+  246  git branch -M main
+  247  git remote add origin git@github.com:vasilyevO/git-branch.git
+  248  git status
+  249  git checkout -b gitignore
+  250  touch .gitignore
+  251  vi .gitignore
+  252  cat .gitignore
+  253  git commit -m "HW_gitignore_branch"
+  254  git add .gitignore
+  255  git commit -m "HW_gitignore_branch"
+  256  git push -u origin main
+  257  git push -u origin gitignore
+  258  git checkout -b main
+  259  git status
+  260  touch test_main.txt
+  261  vi test_main.txt
+  262  git add test_main.txt
+  263  git commit -m "test_file_main_branch"
+  264  git push -u origin main
+  265  ssh ec2-user@linux.itcareerhub.de
+  266  git clone git@github.com:vasilyevO/Klone_Linux_20_02_26.git
+  267  cd Klone_Linux_20_02_26/
+  268  git log
+  269  git log --oneline
+  270  git checkout -b test
+  271  git branch
+  272  touch test1.txt test2.txt test3.txt
+  273  git status
+  274  git add .
+  275  git status
+  276  git rm --cached test3.txt
+  277  git status
+  278  git commit
+  279  git log --oneline
+  280  git commit --amend
+  281  git log
+  282  git switch main 
+  283  git log
+  284  git merge test
+  285  git status
+  286  git log
+  287  git branch
+  288  git branch -d test
+  289  git branch
+  290  git push
+  291  git checkout -b feature
+  292  git status
+  293  git rm .girignore
+  294  git rm .gitignore
+  295  git status
+  296  git add .gitignore
+  297  rm .gitignore
+  298  git status
+  299  ls -la
+  300  git commit -m "Deleted_Gitignore"
+  301  git log
+  302  git switch main
+  303  git merge feature
+  304  ls -la
+  305  git push
+  306  git branch -d feature
+  307  git log
+  308  git log --oneline
+  309  git log --oneline --graph
+  310  touch main1.txt
+  311  git commit -am "Test_Commit"
+  312  git add main1.txt
+  313  git commit -m "Test_Commit"
+  314  git log --oneline
+  315  git checkout -b new_test
+  316  git log --oneline
+  317  git reset --soft 1934727
+  318  git status
+  319  git log 
+  320  git reset --soft c81921b
+  321  git status
+  322  git commit -m "Main_file"
+  323  git log --oneline
+  324  git reset --soft HEAD~1
+  325  git log --oneline
+  326  git status
+  327  ssh ec2-user@linux.itcareerhub.de
+  328  ssh ec2-user@linux.itcareerhub.de
+  329  git clone git@github.com:vasilyevO/Home_Work_12_Linux.git
+  330  cd Home_Work_12_Linux/
+  331  git branch
+  332  git log
+  333  git checkout -b feature 
+  334  ls -la
+  335  vi .gitignore
+  336  vi README.md
+  337* git add .gitignore
+  338  git commit -m "changed_files"
+  339  git add .gitignore README.md
+  340  git commit -m "changed_files"
+  341  git add feature
+  342  git push origin feature
+  343  git branch
+  344  git status
+  345  git --amend 
+  346  git commit --amend
+  347  git log
+  348  git switch main
+  349  git status
+  350  git branch
+  351  git log
+  352  gir merge feature
+  353  git merge feature
+  354  git log
+  355  git merge feature
+  356  git branch
+  357  git pusch
+  358  git push
+  359  touch history.txt
+  360  history >> history.txt
